@@ -38,13 +38,13 @@ header, .topmenu nav:first-child:before{
 /*---------- CHANGE COLOR TWO ----------*/
 .navbar-main > li > .dropdown-menu,
 footer .color-part, .btn.btn-danger, .btn.btn-danger:hover, .btn.btn-danger, .btn.btn-danger:hover, .main-menu, .main-menu:before, #main-menu-bg, .stats > div > div:hover, .btn.btn-sm.btn-default:before, .big-hr.color-2, .our-services.styled div > a:hover:after, .adress-details > div > span:after, .comments > div > a.reply:hover, .comments > div > a.reply:after, nav.pagination a:hover, .tags a:hover, ul.blog-cats > li:hover, #menu-open, .main-menu section nav, .our-services div > a:hover > span, .testimonial-content span, .info-texts:after, .post-info:after, .customBgColor{
-	background-color:#120586a8;
+	background-color:#042394bd;
 }
 .stats > div > div:hover, .btn.btn-sm.btn-default:hover, .comments > div > a.reply:hover, nav.pagination a:hover, .tags a:hover, ul.blog-cats li:hover, .our-services div > a:hover > span, .testimonial-content span{
-	border-color:#ffbd07;
+	border-color:#042394bd;
 }
 .big-hr.color-2:before, .big-hr.color-2:after, .info-texts div > div > div:last-child:before{
-    border-top-color:#ffbd07; 
+    border-top-color:#042394bd; 
 }
 .our-services div > a:hover > span:before, .our-services div > a:hover > span:after, .testimonial-content span:before, .testimonial-content span:after{
 	border-bottom-color: #ffbd07; 
@@ -54,7 +54,7 @@ footer .color-part, .btn.btn-danger, .btn.btn-danger:hover, .btn.btn-danger, .bt
 }
 @media screen and (max-width: 768px){
 	.info-texts div > div > div:last-child p{
-		background:#ffbd07;
+		background:#042394bd;
 	}
 	#menu-close,.main-menu a:hover{
 		color:#ffbd07;
@@ -78,10 +78,10 @@ h1.color-1, h2.color-1, h3.color-1, h4.color-1, h5.color-1, h6.color-1, .twitter
 .navbar-main > li > a:hover,
 .navbar-main > li > .dropdown-menu > li > a:focus,
 .navbar-main > li > .dropdown-menu > li > a:hover{
-	color:#f0ad4e;
+	color:#042394bd;
 }
 .btn.btn-sm.btn-success:hover, nav.pagination a.active, .nav-tabs > li.active{
-	border-color:#042394bd;
+	border-color:#f0ad4e;
 }
 .stats > div > div:hover, .info-texts div > div > div:first-child:before, ul.styled li > ul{
 	border-bottom-color:#042394bd;
@@ -90,7 +90,7 @@ h1.color-1, h2.color-1, h3.color-1, h4.color-1, h5.color-1, h6.color-1, .twitter
     border-top-color:#042394bd; 
 }
 .btn.btn-success, .btn-success:hover, .big-hr.color-1, .one-news > div > div, .btn.btn-sm.btn-success:before, .our-services div > a:hover:after, nav.pagination a.active, ul.styled > li.active, .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover, .info-texts:before, ul.blog-cats > li:before, ul.blog-cats li > ul{
-	background-color:#042394bd;
+	background-color:#f0ad4e;
 }
 @media screen and (max-width: 768px){
 	.info-texts div > div > div:first-child p{
