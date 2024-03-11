@@ -47,10 +47,10 @@ footer .color-part, .btn.btn-danger, .btn.btn-danger:hover, .btn.btn-danger, .bt
     border-top-color:#042394bd; 
 }
 .our-services div > a:hover > span:before, .our-services div > a:hover > span:after, .testimonial-content span:before, .testimonial-content span:after{
-	border-bottom-color: #ffbd07; 
+	border-bottom-color: #f1A85B; 
 }
 .stats span:first-child, footer .copy a, .twitter-feeds div span, .recent-posts div a:hover{
-	color:#ffbd07;
+	color:#fB942B;
 }
 @media screen and (max-width: 768px){
 	.info-texts div > div > div:last-child p{
